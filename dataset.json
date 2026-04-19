@@ -6,17 +6,17 @@
   "config_category": "expansion",
   "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in Denver-Aurora-Centennial, CO that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
   "config_name": "White Space Finder in Denver-Aurora-Centennial (Metro), Colorado, US",
-  "export_job_id": "167b9492-2815-4d1b-a2e8-196ab179a593",
+  "export_job_id": "48a36cc5-7298-4fb2-9bd1-dc6d79ab426f",
   "github_org": "Beamstation-Datasets",
   "id_short": 970224,
   "location_name": "Denver-Aurora-Centennial, CO",
   "location_type": "metro",
   "repo_name": "white-space-finder-in-denver-aurora-centennial-metro-colorado-us-sample-970224",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/970224/beamstation_970224_food_and_drink-us-denverauroracentennialco_SAMPLE_DIST.csv",
-  "sample_pct": 8.82,
+  "sample_pct": 9.68,
   "sample_records": 3,
   "sample_sha256": "4c5f50e4d64e721a64970c950e4b9f72c0aabfb9f9ce373cbe001c5ec46cd076",
   "sample_size_bytes": 28101,
-  "total_records": 34,
-  "updated_at": "2026-04-07T15:46:51.217538+00:00"
+  "total_records": 31,
+  "updated_at": "2026-04-14T22:09:39.008927+00:00"
 }
