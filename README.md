@@ -9,9 +9,9 @@
 | Dataset ID | `970224` |
 | Location | Denver-Aurora-Centennial, CO |
 | Category | Restaurants |
-| Full dataset size | 34 records |
-| Free sample size | 3 records (8.82%) |
-| Last export | 2026-04-07T15:46:51.217538+00:00 |
+| Full dataset size | 31 records |
+| Free sample size | 3 records (9.68%) |
+| Last export | 2026-04-14T22:09:39.008927+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-denver-aurora-centennial-metro-colorado-us-sample-970224/releases/download/sample-latest/beamstation_970224_food_and_drink-us-denverauroracentennialco_SAMPLE_DIST.csv) |
 
 ## What is in this sample
