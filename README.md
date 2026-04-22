@@ -1,6 +1,6 @@
 # White Space Finder in Denver-Aurora-Centennial (Metro), Colorado, US
 
-> Free BeamStation sample export with 3 rows and masked direct-contact fields.
+> Free BeamStation sample export with 2 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `970224` |
 | Location | Denver-Aurora-Centennial, CO |
 | Category | Restaurants |
-| Full dataset size | 31 records |
-| Free sample size | 3 records (9.68%) |
-| Last export | 2026-04-14T22:09:39.008927+00:00 |
+| Full dataset size | 28 records |
+| Free sample size | 2 records (7.14%) |
+| Last export | 2026-04-22T00:58:52.577486+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-denver-aurora-centennial-metro-colorado-us-sample-970224/releases/download/sample-latest/beamstation_970224_food_and_drink-us-denverauroracentennialco_SAMPLE_DIST.csv) |
 
 ## What is in this sample
