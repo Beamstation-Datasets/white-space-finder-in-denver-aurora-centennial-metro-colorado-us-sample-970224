@@ -1,12 +1,12 @@
 {
-  "export_job_id": "730d291d-9358-4627-a485-cd691dcff593",
+  "export_job_id": "7d3431e1-cce8-459f-8460-67f8a07e68ed",
   "id_short": 970224,
-  "published_at": "2026-04-22T19:11:15Z",
+  "published_at": "2026-04-29T19:19:49Z",
   "repo_name": "white-space-finder-in-denver-aurora-centennial-metro-colorado-us-sample-970224",
   "sample_asset_name": "beamstation_970224_food_and_drink-us-denverauroracentennialco_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/970224/beamstation_970224_food_and_drink-us-denverauroracentennialco_SAMPLE_DIST.csv",
-  "sample_records": 2,
-  "sample_sha256": "dd521e66765446824f8c79ac0b818438c7ab8e6b9e5d2c39adf418c532a5b9a3",
-  "sample_size_bytes": 23564,
-  "total_records": 28
+  "sample_records": 3,
+  "sample_sha256": "91b7d9832e6896d666196df9b86366e1f4db0b2879731009ee5efb47eb4fbb29",
+  "sample_size_bytes": 27790,
+  "total_records": 33
 }
